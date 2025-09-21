@@ -1,0 +1,5 @@
+{
+  "name": "Human Minority",
+  "description": "A modern, responsive web application featuring essential trading calculators for forex and crypto traders, including Pip, Position Size, and Risk/Reward calculators. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
